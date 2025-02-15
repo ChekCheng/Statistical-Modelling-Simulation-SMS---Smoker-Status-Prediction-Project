@@ -6,8 +6,6 @@ This project applies **statistical modeling and machine learning** to predict **
 ## 📂 Project Structure
 - **`data/`** → Raw & cleaned datasets (`train_dataset.csv`)
 - **`scripts/`** → R scripts for preprocessing, EDA, model training
-- **`models/`** → Trained logistic regression models
-- **`visuals/`** → Histograms, correlation heatmaps, scatter plots
 - **`docs/`** → Final report, methodology, references
 
 ## 🚀 Technologies Used
